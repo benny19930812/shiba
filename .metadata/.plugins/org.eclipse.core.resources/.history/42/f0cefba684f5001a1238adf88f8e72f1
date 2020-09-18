@@ -1,0 +1,57 @@
+package project1;
+
+public class Print {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("                                                                                                              \r\n" + 
+		"                                                                        ir77r:.                               \r\n" + 
+		"                                                                      :qIYri::.::.                            \r\n" + 
+		"                                                                     .q2vri:i:..i::                           \r\n" + 
+		"                                                                     s1rrsYsrr7Y7:.:.                         \r\n" + 
+		"                                                                    rXuvLv7rrrr7rri.:.                        \r\n" + 
+		"                                                                    U1vYLrr7r7irr777::..                      \r\n" + 
+		"                                                                   rSLv77jU7rr7irr7r:.... :iir7r77r::.....:iir\r\n" + 
+		"                                                                   I2vY1vYir:ii7rrr7:::. :.:i::iirrrrii7vLvvvj\r\n" + 
+		"                                                                  .UILJ1Yr.  .:r7r77r.... .ii..:::::i:..rirrrr\r\n" + 
+		"                                                                  .UuYr7i:     .:r7Lv:...:r::::::::i:i..rriiii\r\n" + 
+		"       ....                          :ri.           ......        :uvvLii:...   .rvvs:.:r7r:iiiiiii:ii::iirri:\r\n" + 
+		"     dBBBBBBZ   .BBr         BBL   QBBQQQB:        BBBBBBB        :27L1Uv7:     .ujLr:ijYrrrr777iiirii:i::i7ii\r\n" + 
+		"     PB    .BB  .BBB        BBBv   v     DB        BD             :KX2X2Yiv.     :XLivUv7r77v777rirri::..:irii\r\n" + 
+		"     qQ     jB.  B.MB      DB B7         vB        BE             :DXYri. .r: ..  .vJIv777r7v7r7r7rrii...:irrr\r\n" + 
+		"     XB    .BB  .B. BQ    7B  B7        :BI        BBBBBX          XD1r::::rr.rs: :Juvv7vvY7v77rv77vvi:. .rr7r\r\n" + 
+		"     XBBBBBBX   .Bi .Bv  .B1  Bv       gB7           ..rBB.        rbqsvvri:.ivuj2IUJJvLvL7v77r7777v77i: .7Liv\r\n" + 
+		"     XB....     .Br  jB  BB   B7     7BB                 BB        .u1srrii.i7JsU1IJsvYv77v7vvLvv7v77r::..r77Y\r\n" + 
+		"     PB         .Br   QBgB   .BY   .QB                   Bb         :jY7r7rvYuJuUUu1JYv7irrvYjJ1sujj77ri..i77I\r\n" + 
+		"     MB         :Bs    QB    :B1  IBBUUPDgg  :BQ  7BXvuMBg          :S1J2Ju15IUu212Jjvvrrir7Ls2SSJ2UYi7r..i7jX\r\n" + 
+		"     :7          7.     :     7.  :7rvYjJ1u  .bv   1bDPJ            YbXK122SU1JUuUJJLs7vJ2j1JUUI5uuUuri7:::vjK\r\n" + 
+		"                                                                    KE5j2XKUUuU1Uj1jJL1SdZEPK1uYXU2117rrr::r1X\r\n" + 
+		"                                                                    jPU2SX5XUIU2121uvu5dDgSsJYv5XSUIsv7jv::rLI\r\n" + 
+		"                                                                   .PSXKK5X25IIUIUUu112r: .    iXKKI2vs117::i7\r\n" + 
+		"                                                                   YPXXqKPXX5SIXIS2SKgg7   J.   .iL22I2Uj1:..:\r\n" + 
+		"                                                                   udKqKPPPXKXqPdPPPEgQP5:      ...715Iu1UY...\r\n" + 
+		"                                                                  .qEPPEPPPdPbbgMMEdbgDEPXJi.....::vsLrvsLj:.:\r\n" + 
+		"                                                                  .XZXPPPPZbDdgMQggZZbEPdqPXX2Yr7rsvriiir7u:.i\r\n" + 
+		"                                                                   JEPKPbZZgDggQRRggEddZPqSK2XX5J17rrv7rr7Yr.r\r\n" + 
+		"                                                      :           .KMDZbDgMgMZRMQgMggggZDqPKKqbPq7ivsJJ77r7i:i\r\n" + 
+		"      7BBBBBB                                        .BS          :qgMDggMMMgQgRgMDgDgDRggDgdEbdjrv1U2uuv7ri:r\r\n" + 
+		"     BBi  .:u                                         BL          :PggRMQgRgRMQMRDRDggQRRgQgDdPIuJ115SKI22si:7\r\n" + 
+		"    .B5           7PPJ     .7XbK:    i. 7Zi   .2bd2.  Qr sPPi      2dDZggRgQgRgMMRgggQQQRQggddK5ISU22X5KqdIY7X\r\n" + 
+		"     PBQi       vBQvvDBv   QBu71BB   BBgMdv  BBdj1B7  BBg2YqBQ     7bdZbDgQMRMRgMggZMQQRQMRgMdPPdqPS22PqK7:irr\r\n" + 
+		"       dBBBi   iBr    5B.       1B.  BQ.    BB        BB    iBi    iIdEDDggRMQMQDggMRQQQQQRQRQDEEZPbbDbr      \r\n" + 
+		"          XBB  gBDBBBBBBi  vBBBgQB.  BB    rB.        B7    .B7    :2qEdDZgZgZggMDMgQRQMRgggRQdKbdDPZg7 .:.   \r\n" + 
+		"           .BJ SQ         BB    :B.  BQ    :Bv        BY    .Br    iIqPZDgggEDdEPbPZEgQQRRDggRXqSPPEZE..      \r\n" + 
+		"    :Qr.  .BB.  BB:   77  BB   iBB:  BB     ZB5   7: .B2    :BY    :IIXPEZggMDDbZPbEdqgRRgMDMDEPKIPdgZr     . \r\n" + 
+		"    .BBBBBBK     5BBBBBr   dBBB2iB.  gD      iBBBBQ:  B7    .Bi     7XIXKEZgDRMMDDEZbddRgMggggEgPP5SXKX7. .:  \r\n" + 
+		"                                                                    vKS2SqEDgZMZgDMgQQQgQMZERRgPSXPXSSq2i     \r\n" + 
+		"                                                                    :XXI2KqddDEDDggRQQRMDgqJJZQEXqSXS5Jri:..  \r\n" + 
+		"                                                                     sPI55XqEbZEDEgZggRDDgg5jrUZqIqXu7r:..:r:.\r\n" + 
+		"                                                                     vPqISIqqdbZZDEgZgZMgRZMd5r7s5uLr:.....   \r\n" + 
+		"                                                                     .SqqXK5KKdEgEgDDZgDgZgDgEbUYu2vuLL7i:..i:\r\n" + 
+		"                                                                      LK5XSKSqPdbdbgZDZZEDEgEEddPbqK5PbDbPIuj5\r\n" + 
+		"                                                                      :2K5X5XXPPPPEEZdDdEbZdEEggMDDEPIX2KXSjsj\r\n" + 
+		"                                                                      .jXKKPKqKdPddZdZdZPEPPqddEbZPEdP5XIU7ri7\r\n" + 
+		"                                                                      .vS5KXKqPPdPbPdbZPdqPSSIXKdPqPPSX2UsYLLv");
+	}
+
+}

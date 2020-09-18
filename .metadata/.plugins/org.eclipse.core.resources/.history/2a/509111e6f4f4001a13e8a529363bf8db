@@ -1,0 +1,22 @@
+package project1;
+
+public class Scanner {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		while (true) {
+			
+		String string = null;
+		Scanner scanner = new Scanner();
+		if (string=="test") {
+			System.out.println("test");
+		}
+		else {
+			System.out.println("輸入錯誤 請重新輸入");
+			
+		}
+	}		
+		
+	}
+
+}

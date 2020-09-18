@@ -1,0 +1,60 @@
+package project1;
+
+public class Print {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("                                                                                                                                                      \r\n" + 
+		"                                                                                                               .:ii..                                 \r\n" + 
+		"                                                                                                             rUUL7rr::..                              \r\n" + 
+		"                                                                                                            LP17i:::. :::                             \r\n" + 
+		"                                                                                                           :SLr777ri:iii.:.                           \r\n" + 
+		"                                                                                                          .2urrLjYrirLsr:....                         \r\n" + 
+		"                                                                                                          vSJJs7iriviiiirr.:..                        \r\n" + 
+		"                                                                                                          Sjv7YrL77rrr77777::..     ......            \r\n" + 
+		"                                                                                                         L2Y7Y7Jusr7rrirr7i:::...rr7rv7v7v77ii:iiirv7s\r\n" + 
+		"                                                                                                         2I7suLsiii:ir7r77r:::. . .i:.::iiiii:irv77rvv\r\n" + 
+		"                                                                                                        .22JvUv7.   .ir7r77i.... .ii..:::::i:: :rrrrir\r\n" + 
+		"                                                                                                        :u1vrrr:.     .:77Lv:...ir::::i:::ii::.:ririii\r\n" + 
+		"                     ..::.       .            ..     .rLr.           ..:::::                            :u7Yvri:....   irvvv..:77r:iiiiiiriiii:iiii7:i\r\n" + 
+		"                    vBBBBBBB7   2BB.         QBB   :BQBRBBB.        dBBBBBBb                            :1v721L7r.     :IYvi:ruLrirr777iiriii:::::rri:\r\n" + 
+		"                    7B.    PBj  sBQB        XBBB   :r     BB        qB                                  :P55S5sr7r      vK7iY2v7r77v7777iiir::...:irii\r\n" + 
+		"                    rB.     BB  JB BB      iB.BB          KB        PB                                  iZKL7i. .ii ..   ivj2v7r7r7v777r7rri::. ::ii7r\r\n" + 
+		"                    rB     jBJ  sB  QU     BI BB         :B5        ZBBBBq.                             .PPUr:::.iv..vr  iuuvv7vvs7v77r7v77vri.. :r7r7\r\n" + 
+		"                    rBQPQBBBv   uB  uB.   BB  BB        dQs         .::iYBBE                             7EKJ7Yrii:.rL1Y1U1JsLLvL7v7vr7777v7vri. :v7rv\r\n" + 
+		"                    iBK7uL:     JB   BB  QB   QB      iBB                 LBi                            .UIJ7rri:.i7JJI22JsvYvL7v7vvvvv7v7r7r:: :7vrs\r\n" + 
+		"                    rB.         1B    BRiB:   BB     QB:                  rBr                             iLY7rrrrvYsJU1UjuYLv7rr7YYJsJLYJsv7rr:.:rrvj\r\n" + 
+		"                    LBi         5B.    BB1    BB   EBB. .::i   dj  .2:  .2BB                              .SJLYsLjuI111U1UjJvLrrir7LYUU5jU1ur77:.:i7YX\r\n" + 
+		"                    iB:         vB.    7Q     Bg  .QBMBQBQBB  :BB   BBBBBBi                               iqS5S22U521JUuUjsYY777YvLYuuSS2uI27:vr:.:v1S\r\n" + 
+		"                                                                                                          SZXIjIS511uUUUuUsuvs1XPP5IjUsI1u1UYirri::vuX\r\n" + 
+		"                                                                                                          jd5sIKX2IU2121U1uLj5PEgDbPSY1UXUIusr7vr.:rj5\r\n" + 
+		"                                                                                                          2P2SSSI525252I2UsJj55XJr.::ivPq52UJ7LUv:.i7j\r\n" + 
+		"                                                                                                         ibSqqK5X552I25UI1IUKS:   r.   iu5552Y2uU7.::r\r\n" + 
+		"                                                                                                         uPKSqKbKK5X5qXqSKqbMQJi  :.   ..iv2uSUuuUi..:\r\n" + 
+		"                                                                                                        .2EKqKbKPqPXPqEdZPddggbXL.    ....:Y1U11u1Y..:\r\n" + 
+		"                                                                                                        .bEqqbPPPEbddggQgZbZZZbEXKYr::..:i7J7rr7vvJ:.i\r\n" + 
+		"                                                                                                        .IEKqqPPZEDEgMQMMDgdddbKPSqXK1s7vvYriiri7vu:.r\r\n" + 
+		"                                                                                                         uEEPPPEZMgggQRRgMDEbEddXqS22KK21Yir7Lrrr7Yi:r\r\n" + 
+		"                                                                       :7                               .qMDgEggMgMZRgQMMgMDMZgZPqPXPPdPJi7sujsr7iri:i\r\n" + 
+		"                     rBBBBBB7                                          BB                               :qDMDggMgRgQRRgRggDMDggRDggZEdb577sUUUuJv7ri:r\r\n" + 
+		"                    QQY   .7:                                          BB                               :qgDMgQMQgRMQMRgggggQMQgRRMEDPS1U121XXX2I1L::7\r\n" + 
+		"                    BB            7q5r      :uXKr     i  vK:    vKqU.  QB .Uqj.                         .UdDZMMQMQgRMRgQgRDQRQQQRMDZbPI525U25XIKqdUv7S\r\n" + 
+		"                    SBB:        IBB15BBr   gBZ22BB.  .BQBQBr  BBBXqQQ  MBPQSSBBX                        .7PdZbDgRMQMQgRggDgMQQQQRgRgDqPPPKq2U2PPK7ir7r\r\n" + 
+		"                     .DBBBi    qB     XB         BB   BB     BB        MB7    RB                         iIddgDggMMQgQgggMgQQQRQMQRQRgdZdbqdbDqi      \r\n" + 
+		"                        .PBB.  BBPBQBQBB7   XQBBMQB   BU    rB:        QB     7B.                        i2KEdDEgZgZggRgMDMRQMQMMgRMQZPbZdddgd: ...   \r\n" + 
+		"                           BB  BB  ...    7BP.   BB   Qu    rB:        BB     vB.                        i1KPEZgDgZDdEddPEEggQMRggDMMPSPKPPdZU ...    \r\n" + 
+		"                    r      BB  IBi        BB    vQB   BI     BB.    .  BB     uQ.                        :I5XPZEgDgZZbEPbbEPEMQQRDggRdbX5qEER2.       \r\n" + 
+		"                   .BBBBBBBR    JBQBBBQX  .BBBQBXBB  .BP      ZBBBBBD  BB     1B.                        .v5IKqEZggMggDgdEddqEMRZMZgDDDDqXXqKPv:  .:  \r\n" + 
+		"                      :ii.        .ir:      .ri       .         :rr.                                      vX52SqEZgDRggZgZggRgRRQgggQEZSqPKI5SP7.     \r\n" + 
+		"                                                                                                          iKS52KPZdgDDZgDMMBRQgQgPIqMQPKXKXKSX1Ji.    \r\n" + 
+		"                                                                                                          .uqI5SKqdbDEZEgDggRMgEgb17jPQPX5q5ILr...:i: \r\n" + 
+		"                                                                                                           7Pq5X5XqdPEEDZDEgDgDgggEPYrsKISSjri::.:::..\r\n" + 
+		"                                                                                                           iqKXIXSKqddDZgZDEgDMggDMZEUv7jUvrr.....    \r\n" + 
+		"                                                                                                            jPXKSXSqqEdEdgDDZgZgZDDZdZPIuXUU5XS5YYrrvv\r\n" + 
+		"                                                                                                            75S5X5KXPqdPEPDZgdZdDEDdDPZEZdbXXXbPdqSj15\r\n" + 
+		"                                                                                                            .UXKSKSKKPPPbZZZdZEEbEbdbgggZDDDPS2I5SuY7s\r\n" + 
+		"                                                                                                            .vXSqXqXPqdPdbEEZZEbdPPKbPbPZbbPZXXSIJ7rr7\r\n" + 
+		"                                                                                                             72SSKXqqPPdPbPEPdbdPPSXI55bPqqPXS2UJsYsLY");
+	}
+
+}

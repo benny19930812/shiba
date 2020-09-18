@@ -1,0 +1,43 @@
+package project1;
+
+public class Print {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("M@M@M@M@M@M@M@M@M@MMM@MMMMMMMMMMMMM@M@MMM@M@MMM@M@\r\n" + 
+		"MM@@@M@M@@@M@M@@@@@M@MMM@B8WMMMMMM@M@M@M@M@M@M@M@@\r\n" + 
+		"M@M@M@M@M@M@M@M@@@M@MMMS;72aB0WMMMM@M@M@M@M@M@@@M@\r\n" + 
+		"@@@M@M@M@M@M@M@M@M@MMMZiXSSZa2aWMMMM@M@MMMMM@M@M@M\r\n" + 
+		"M@M@M@M@M@M@M@@@@@MMM@irXXSSSX2Z0WMMMMMMMMMMMMMMMM\r\n" + 
+		"@M@M@M@M@M@M@M@M@@@MM2iXXXXSS2XXaBWMWW0B0BWMMMM@WB\r\n" + 
+		"M@M@M@M@M@M@M@M@@@MMM:7r7Xaa2XSXZ0WB8Sa2SSS2ZSX77;\r\n" + 
+		"MM@M@M@M@M@M@M@M@M@MBirXXBMM0ZSXSWWW8808ZZaZBaS222\r\n" + 
+		"M@M@M@M@M@M@M@M@@@MM0;XXaBM@M@S7SBZSaaaaZaZa8ZaSZZ\r\n" + 
+		"@@@M@M@M@M@M@M@@@MMM8i;i72BMMMX;2SrS2SXSaa2ZZ8Z2aZ\r\n" + 
+		"M@M@M@M@M@M@M@@@M@MMZ ;SB0aWWMM2rrXXSXXX2S2aBW8222\r\n" + 
+		"@@@M@M@M@M@M@M@M@@@MM,:2a8a0XXZX;XXXXXS2XSXS8M8XS2\r\n" + 
+		"M@M@M@M@M@M@M@M@M@MMMai72Z827;i;7XSSSXX7XXSXZW0XS7\r\n" + 
+		"@M@M@M@M@M@M@M@M@M@MMM;7XS7;;;;r7XSZ2Xr;;rrSSBBSr;\r\n" + 
+		"M@M@M@M@M@M@M@M@M@M@M0,:;i;;r;rrXXX;;;;ii;;SaaB2ii\r\n" + 
+		"@M@M@M@M@M@M@M@M@M@MM8.;iiir;r;7Xr. .i;r:i;XSS8a;;\r\n" + 
+		"M@M@M@M@M@M@M@@@M@MMMX,:ii;;;;;rriSWBBM0;:irr;Z0aX\r\n" + 
+		"@M@M@M@M@M@M@M@M@M@M@i,:::i;ii:i, rMMMMMWZrii;r0B8\r\n" + 
+		"M@M@M@M@M@M@M@M@M@MMW.,::,:,, .,, .:2WMWBZX7S7raWZ\r\n" + 
+		"@@@M@M@M@M@M@M@M@MMM@,,:,:..   ..,,:,iirXXSZaa728a\r\n" + 
+		"M@M@M@@@M@M@M@M@M@MMW. ....   .....,:::.;2SrXS2a8a\r\n" + 
+		"@@@M@M@@@M@M@@@@@MMM8    .     . . . ..:7X;iirraZX\r\n" + 
+		"M@M@M@M@M@M@M@M@M@MMW,        ...    .:i;;;i:.:7Xi\r\n" + 
+		"@M@M@M@@@@@M@M@M@MMMM7...      .      .,.:,:,2WWBW\r\n" + 
+		"M@M@M@M@M@M@@@M@M@MMMX,.........       :,.. ZMMMMM\r\n" + 
+		"@M@M@M@M@M@M@M@M@M@MMS::....,:::,,  . .iii..0MMMMM\r\n" + 
+		"M@M@@@M@M@M@M@M@M@MMMZii:.. ..:,,,  . ..::i,;0MWMM\r\n" + 
+		"MM@M@M@@@M@M@M@@@M@MMB:iii....      :i .:::ii2WMMM\r\n" + 
+		"M@M@M@M@M@M@M@M@M@MMMM7,;ii,,.. . . :rXiii;X8BBZ@8\r\n" + 
+		"MM@M@M@M@M@M@M@M@M@MMMa,:iii,,.... . .iXXrXaZ80WWW\r\n" + 
+		"M@M@M@M@M@M@M@M@M@@@MMMi::;i:,:...,.....::i::,irrr\r\n" + 
+		"@M@M@M@M@M@M@M@@@M@M@MM2,i:i::::,,,:,:,. ..:iiiXX7\r\n" + 
+		"M@M@M@@@M@M@M@M@@@M@MMMZiii:i::::,::ii;i::::;;XXSX\r\n" + 
+		"@@@M@M@M@M@@@M@M@M@M@MM2,:,, . .   ..,:i:,,,iii;r7");
+	}
+
+}

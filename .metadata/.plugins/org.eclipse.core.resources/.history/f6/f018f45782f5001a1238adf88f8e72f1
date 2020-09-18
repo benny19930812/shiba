@@ -1,0 +1,43 @@
+package project1;
+
+public class Print {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println(" . . . . . . . . .   .                 . .     . .\r\n" + 
+		". . . ... . ....... .   .:i,    . . . . . . . . . \r\n" + 
+		" . . . . .   . . . .   S8aX7,:,    . . . . . . . .\r\n" + 
+		". . . . . . . . . .   r0aSXr7X7:    .   . .  .. . \r\n" + 
+		" . . . . . . . . .   .0Z22SSS2X;i,                \r\n" + 
+		"... . . . . . . ...  X02222SXXSS7i, ,,i:i:,    .,,\r\n" + 
+		" . . . . . . . . .   0aZa27rXSX2ri,,iX7XXSXXrSSa28\r\n" + 
+		"... . . . . . . . . :0Z22:  :rX2X,.,;;iir;7;i7SXXX\r\n" + 
+		" . . . . . . . . .  iZa27: . .SZS:;X7777r7r7;r7Xrr\r\n" + 
+		"... . . . . . . .   ;080aX:   2ZXXZSXS2SX7Xr;;rX7r\r\n" + 
+		" . . . . . . . . .  ;M8Sii7,,  XaZSSS2SSXXX7,,;XXX\r\n" + 
+		". . . . . . . . .    WBX7;7iS2;282222SSX2S2X; ;SSX\r\n" + 
+		" . . . . . . . . .   70aX7iXa808a2SSS22aS2XS7,i2Sa\r\n" + 
+		". . . . . . . . ...   ZaaSaZ8Z8ZaSX7X2Z88ZZXX:iXZ8\r\n" + 
+		" . . . . . . . . .   iWB8088Z8ZZa22ZZ8Z0888XX7iX80\r\n" + 
+		". . . . . . . . . .  ;M8000Z8ZZaaZWM@08ZB08SXSi788\r\n" + 
+		" . . . . . . . . .   SB00088Z8ZZZ0S,:: i8B0ZZ8ri72\r\n" + 
+		"... . . . . . . . .  0W0B0080000WMZ     :rZ008Zi:;\r\n" + 
+		" . . . . . . . ...  ,@WWBWBBWM@WWMWBX,.,:;SaSaZ7,;\r\n" + 
+		". . . . . . . . . . .BWBWW@WMMM@@W@BB00Z22X777aX;X\r\n" + 
+		" . . . . ... . . .  ,@MWWM@MMMM@@@@WBBB@8XSZ2XXX;7\r\n" + 
+		"... . . . . . . .   ;MMMMMMMMMM@@MM@M@@BaS800Za7rS\r\n" + 
+		" . . . . . . . . .  ,WMM@MMMMM@M@MMMM@B088Z0B@Ba20\r\n" + 
+		". . . ... . .....    aM@M@MMM@@@MMMMMM@BWBBBWX:.:,\r\n" + 
+		" . . . . . . . . .   2W@@@@@@@W@MMMM@M@BBW@Mr     \r\n" + 
+		"... . . ... ... . .  SBB@@MWWBBBWWM@MM@B0B@@i     \r\n" + 
+		" . . . . . . . . .   r00B@@M@@WWWW@M@MM@00BWZi ,  \r\n" + 
+		"  . ... . ... . . .  ,B00BW@@WM@MMMMB0M@0BB00X,   \r\n" + 
+		" . . ... . . . . .    aW800WW@@@@M@MBZ20008S;:i;.;\r\n" + 
+		"  . . . . . . .....   7WB800WW@@@W@@M@0SaZ27r;i.,,\r\n" + 
+		" . . . ... . . . . .   0BB80BWBWW@W@@@@WBW0BBB0ZZZ\r\n" + 
+		"  . . . . . . ... . .  XB000BBBWWWWBWBWW@@@B00022a\r\n" + 
+		" . . . . . . . . . .   r0B000BBBBWBB0880BBBB8Za2S2\r\n" + 
+		". ..... . ..... . . .  XWBBWM@M@MMM@@BB0BWWB000ZZZ");
+	}
+
+}

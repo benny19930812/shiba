@@ -1,0 +1,24 @@
+
+package project2;
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+
+public class JsonOJ {
+	private String caseName;
+	private Integer caseId;
+	public String getCaseName() {
+		return caseName;
+	}
+	public void setCaseName(String caseName) {
+		this.caseName = caseName;
+	}
+	public Integer getCaseId() {
+		return caseId;
+	}
+	public void setCaseId(Integer caseId) {
+		this.caseId = caseId;
+	}
+	pr
+	
+	
+}

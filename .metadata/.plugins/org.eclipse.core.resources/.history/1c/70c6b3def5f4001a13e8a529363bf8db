@@ -1,0 +1,24 @@
+package project1;
+import java.util.Scanner;
+public class Scannertest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		System.out.println("請輸入test");	
+		String string = null;
+		Scanner scanner = new Scanner(System.in);
+		string = scanner.nextLine();
+		if (string=="test") {
+			System.out.println("成功");
+		}
+		else {
+			System.out.println("輸入錯誤 請重新輸入");
+			
+			string = scanner.nextLine();
+		}
+	}		
+		
+	}
+
+

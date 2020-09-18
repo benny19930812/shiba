@@ -1,0 +1,53 @@
+package project1;
+
+public class Print {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("                                                                      \r\n" + 
+		"                                 :r777:.                              \r\n" + 
+		"                                7X2ri::..:.                           \r\n" + 
+		"                               iX77rii:::i::.                         \r\n" + 
+		"                              .S7i772rr727i...                        \r\n" + 
+		"                              2S727rir7rrirr::.                       \r\n" + 
+		"                             .X777777r7r7r777:...  ...:.:..       . ..\r\n" + 
+		"                             22777727rrrrrr7r:::..:irrr77777rri7777772\r\n" + 
+		"                             227277:...:r7777:...  .i..:i:::i.:r7r7r77\r\n" + 
+		"                            .22777i.   ..ii777....ii:.:::::i::.irrir:i\r\n" + 
+		"                            .2777i:...   .r777..irr:iiiiiii:r:::riri:i\r\n" + 
+		"                            .272277r.    .227i.727irr7rriririi:::rri:i\r\n" + 
+		"                            :0X2X2rrr     iS7r227r777777rirri:..::riii\r\n" + 
+		"                            :MX7i: .ir ..  .7227777777r777rr::..:ii7ir\r\n" + 
+		"      7727.  :7      ir      282rri:ir.i2i.r227777777rrr77777i. .r7rri\r\n" + 
+		"      B7.7B7 BB7    :BB      :XX777i:.:7222S227777777777777r7r:..77r77\r\n" + 
+		"      B   BB M2B.   B2B       777riiii77222227777r77772777777ii..r7777\r\n" + 
+		"      BX2M8  B: B  B..B       :27777722222222777rir7722S2222r7r..ir722\r\n" + 
+		"      B.     B2 2BM0 rB       7XSS22S2S22222277r7777222SS2227i7:.:72S2\r\n" + 
+		"      B      B2  BB  7B       XZS22XS22222222272S000222222227irr::r222\r\n" + 
+		"                              2X22XSS2222222272X8M8SX222X2S27r77:.r227\r\n" + 
+		"                             .XXSXSX222222222222r:..  .7XXSS7722r::r77\r\n" + 
+		"                             70XXXXXXSS2S2S2XXMS.  7.   :r2222222i..:r\r\n" + 
+		"                             20XXXX0XXSX0000X8MMS7      ..:22S2227...:\r\n" + 
+		"                            .XZX000X0000MMM000M00XSr:...::r7777772:.::\r\n" + 
+		"        .                    S0XX0X0080MMMM8Z00000XXXS27777riiir72i.ir\r\n" + 
+		"     .MX2B2     B8X07        2M000Z0M88MBMM8M0Z0ZXXS2S0S27rr777r77r:ii\r\n" + 
+		"      .   B     B.          .0MM0Z8MMM8MMMMM8M8M80X0X00Z2r722277rri::r\r\n" + 
+		"         M0     BZX0.       :XMMMMMMMMMMMMM8MZMMM8MMM00S2722S22227i:rr\r\n" + 
+		"       iB7         iB       .X8M8MMMMMMMMM8M8MMMMMMM0ZX22222SXSXXSri72\r\n" + 
+		"     .BB. . .r  :  7B        7008ZMMMMMMM8M88MBMMMM8M0XXXXX222X0X77777\r\n" + 
+		"     7M22XX :B  Z0X2         rXZZ88MMMMMMMZMMBMMMMMMMM0Z00X0X82:      \r\n" + 
+		"                             iS0ZZ88MZM8M8M8MMMMMMM8MM8X0000MX. ..    \r\n" + 
+		"                             i2X08ZM8800000008MMMM8MMMSXS00Z87 .      \r\n" + 
+		"                             :2SX088MMM0Z0000X08MMM8MZ0XXS00M2.       \r\n" + 
+		"                             .7X2XXZ8MMM8M080008MMMM8MZ8XXSXXX7: ..   \r\n" + 
+		"                              7XS2XX8Z8888M8MMMMMM80MMMXXXXSXXS7.     \r\n" + 
+		"                              :XSS2XX008Z8ZMMMMM8M027XM8XXSS22i::... .\r\n" + 
+		"                              .20SX2XX00008888M8M8M0S77XXSX27::..:i..r\r\n" + 
+		"                               70XSSSXX008Z8Z88M8M8MZ0777277i.....    \r\n" + 
+		"                               .XXXSXXXX00ZZ8Z8Z8Z8Z80ZX2SS2XXX2277777\r\n" + 
+		"                               .7XXXSXXXX000080Z0Z080Z0M8800XXX0XX2222\r\n" + 
+		"                                iSXXXXXX0X00Z0Z000000080Z0Z00SSS277r77\r\n" + 
+		"");
+	}
+
+}

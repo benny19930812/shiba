@@ -1,0 +1,33 @@
+package project1;
+import java.io.BufferedInputStream;
+import java.io.BufferedOutputStream;
+import java.io.BufferedReader;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.io.OutputStream;
+import java.net.URL;
+
+public class JavaIo {
+    public static void main(String[] args) throws IOException {
+        //http://iosnetworkdemo.appspot.com/json.jsp?msg=helloWorld
+        //此將此網址回傳的結果示在Console中
+    	URL url = new URL("https://data.epa.gov.tw/api/v1/aqx_p_02?limit=1000&api_key=9be7b239-557b-4c10-9775-78cadfc555e9&format=csv");
+		try (InputStream inp = url.openStream();//
+        	BufferedInputStream binp = new BufferedInputStream(inp);
+    		InputStreamReader inpr = new InputStreamReader(binp);
+    		BufferedReader br = new BufferedReader(inpr);
+	
+				){
+    		int i ;
+    		while((i = br.read()) != -1){
+    			System.out.print((char)i);
+    		}
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+
+	}
+
+}

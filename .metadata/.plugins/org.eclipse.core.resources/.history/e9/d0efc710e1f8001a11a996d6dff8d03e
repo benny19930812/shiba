@@ -1,0 +1,27 @@
+
+package project2;
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+
+public class JsonOJ {
+	private String title;
+	private Integer UID;
+	public String getTitle() {
+		return title;
+	}
+	public void setTitle(String title) {
+		this.title = title;
+	}
+	public Integer getUID() {
+		return UID;
+	}
+	public void setUID(Integer uID) {
+		UID = uID;
+	}
+
+	public String toString() {
+        return " [title=" + title + ", UID=" + UID + "]";
+    }
+
+	
+}

@@ -1,0 +1,139 @@
+#Thu Sep 03 19:46:46 CST 2020
+\!/=
+/configuration/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
+/configuration/org.eclipse.equinox.p2.garbagecollector/gc_enabled=false
+/configuration/org.eclipse.ui.ide/MAX_RECENT_WORKSPACES=10
+/configuration/org.eclipse.ui.ide/RECENT_WORKSPACES=C\:\\iii\\JDBCWorkspace\nC\:\\iii\\Project1\nC\:\\iii\\JavaWorkspace\nC\:\\iii\\Java\\JavaWorkspace\nC\:\\iii\\JDBCWorkspace\\JDBCSampleOracle
+/configuration/org.eclipse.ui.ide/RECENT_WORKSPACES_PROTOCOL=3
+/configuration/org.eclipse.ui.ide/SHOW_RECENT_WORKSPACES=false
+/configuration/org.eclipse.ui.ide/SHOW_WORKSPACE_SELECTION_DIALOG=true
+/instance/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
+/instance/org.eclipse.core.resources/encoding=UTF-8
+/instance/org.eclipse.core.resources/version=1
+/instance/org.eclipse.debug.core/prefWatchExpressions=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<watchExpressions>\r\n<expression enabled\="true" text\="rs1.getString(4)"/>\r\n</watchExpressions>\r\n
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<launchPerspectives/>\r\n
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.user_view_bindings=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<viewBindings>\r\n<view id\="org.eclipse.jdt.debug.ui.DisplayView">\r\n<perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="opened"/>\r\n</view>\r\n<view id\="org.eclipse.debug.ui.ExpressionView">\r\n<perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="opened"/>\r\n</view>\r\n</viewBindings>\r\n
+/instance/org.eclipse.debug.ui/pref_state_memento.org.eclipse.debug.ui.BreakpointView=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<VariablesViewMemento org.eclipse.debug.ui.SASH_DETAILS_PART\="315" org.eclipse.debug.ui.SASH_VIEW_PART\="684">\r\n<PRESENTATION_CONTEXT_PROPERTIES IMemento.internal.id\="org.eclipse.debug.ui.BreakpointView">\r\n<BOOLEAN BOOLEAN\="true" IMemento.internal.id\="org.eclipse.debug.ui.check"/>\r\n</PRESENTATION_CONTEXT_PROPERTIES>\r\n</VariablesViewMemento>
+/instance/org.eclipse.debug.ui/pref_state_memento.org.eclipse.debug.ui.DebugVieworg.eclipse.debug.ui.DebugView=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<DebugViewMemento org.eclipse.debug.ui.BREADCRUMB_DROPDOWN_AUTO_EXPAND\="false"/>
+/instance/org.eclipse.debug.ui/pref_state_memento.org.eclipse.debug.ui.ExpressionView=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<VariablesViewMemento org.eclipse.debug.ui.SASH_DETAILS_PART\="315" org.eclipse.debug.ui.SASH_VIEW_PART\="684">\r\n<PRESENTATION_CONTEXT_PROPERTIES IMemento.internal.id\="org.eclipse.debug.ui.ExpressionView">\r\n<BOOLEAN BOOLEAN\="true" IMemento.internal.id\="PRESENTATION_SHOW_LOGICAL_STRUCTURES"/>\r\n</PRESENTATION_CONTEXT_PROPERTIES>\r\n</VariablesViewMemento>
+/instance/org.eclipse.debug.ui/pref_state_memento.org.eclipse.debug.ui.VariableView=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<VariablesViewMemento org.eclipse.debug.ui.SASH_DETAILS_PART\="315" org.eclipse.debug.ui.SASH_VIEW_PART\="684">\r\n<PRESENTATION_CONTEXT_PROPERTIES IMemento.internal.id\="org.eclipse.debug.ui.VariableView">\r\n<BOOLEAN BOOLEAN\="true" IMemento.internal.id\="PRESENTATION_SHOW_LOGICAL_STRUCTURES"/>\r\n</PRESENTATION_CONTEXT_PROPERTIES>\r\n</VariablesViewMemento>
+/instance/org.eclipse.debug.ui/preferredDetailPanes=DefaultDetailPane,org.eclipse.jdt.debug.ui.JAVA_VARIABLE_DETAIL_PANE_VARIABLES\:org.eclipse.jdt.debug.ui.JAVA_VARIABLE_DETAIL_PANE_VARIABLES|DefaultDetailPane\:DefaultDetailPane|
+/instance/org.eclipse.debug.ui/preferredTargets=default\:default|default,org.eclipse.lsp4e.debug.toggleBreakpointTarget\:default|org.eclipse.lsp4e.debug.toggleBreakpointTarget\:org.eclipse.lsp4e.debug.toggleBreakpointTarget|
+/instance/org.eclipse.e4.ui.css.swt.theme/themeid=org.eclipse.e4.ui.css.theme.e4_default6.0,6.1,6.2,6.3,10.0
+/instance/org.eclipse.e4.ui.workbench.renderers.swt/enableMRU=true
+/instance/org.eclipse.e4.ui.workbench.renderers.swt/themeEnabled=true
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Program Files/JDK8/jre/lib/rt.jar
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_SRC=C\:/Program Files/JDK8/src.zip
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.8
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.compliance=1.8
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.release=disabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.source=1.8
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.timeoutForParameterNameFromAttachedJavadoc=50
+/instance/org.eclipse.jdt.debug.ui/org.eclipse.debug.ui.ExpressionView.org.eclipse.jdt.debug.ui.show_null_entries=true
+/instance/org.eclipse.jdt.debug.ui/org.eclipse.debug.ui.VariableView.org.eclipse.jdt.debug.ui.show_null_entries=true
+/instance/org.eclipse.jdt.debug/org.eclipse.jdt.debug.PREF_HCR_WITH_COMPILATION_ERRORS=true
+/instance/org.eclipse.jdt.debug/org.eclipse.jdt.debug.PREF_REQUEST_TIMEOUT=3000
+/instance/org.eclipse.jdt.debug/org.eclipse.jdt.debug.PREF_SHOW_STEP_RESULT=true
+/instance/org.eclipse.jdt.debug/org.eclipse.jdt.debug.PREF_SHOW_STEP_RESULT_REMOTE=false
+/instance/org.eclipse.jdt.debug/org.eclipse.jdt.debug.PREF_SHOW_STEP_TIMEOUT=7000
+/instance/org.eclipse.jdt.debug/org.eclipse.jdt.debug.PREF_SUSPEND_ON_RECURRENCE_STRATEGY=RECURRENCE_UNCONFIGURED
+/instance/org.eclipse.jdt.debug/org.eclipse.jdt.debug.default_breakpoint_suspend_policy=2
+/instance/org.eclipse.jdt.debug/org.eclipse.jdt.debug.do_not_install_breakpoints_from_unrelated_sources=true
+/instance/org.eclipse.jdt.debug/org.eclipse.jdt.debug.enable_advanced_sourcelookup=true
+/instance/org.eclipse.jdt.debug/org.eclipse.jdt.debug.enable_hcr=true
+/instance/org.eclipse.jdt.debug/org.eclipse.jdt.debug.suspend_for_breakpoints_during_evaluation=true
+/instance/org.eclipse.jdt.debug/org.eclipse.jdt.debugdefault_watchpoint_suspend_policy=0
+/instance/org.eclipse.jdt.junit/org.eclipse.jdt.junit.content_assist_favorite_static_members_migrated=true
+/instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_CONNECT_TIMEOUT=20000
+/instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1596167201680" defaultVMConnector\="">\r\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n<vm id\="1596167201680" javadocURL\="https\://docs.oracle.com/javase/8/docs/api/" name\="JDK8" path\="C\:\\Program Files\\JDK8">\r\n<libraryLocations>\r\n<libraryLocation jreJar\="C\:/Program Files/JDK8/jre/lib/resources.jar" jreJavadoc\="https\://docs.oracle.com/javase/8/docs/api/" jreSrc\="C\:/Program Files/JDK8/src.zip" pkgRoot\=""/>\r\n<libraryLocation jreJar\="C\:/Program Files/JDK8/jre/lib/rt.jar" jreJavadoc\="https\://docs.oracle.com/javase/8/docs/api/" jreSrc\="C\:/Program Files/JDK8/src.zip" pkgRoot\=""/>\r\n<libraryLocation jreJar\="C\:/Program Files/JDK8/jre/lib/jsse.jar" jreJavadoc\="https\://docs.oracle.com/javase/8/docs/api/" jreSrc\="C\:/Program Files/JDK8/src.zip" pkgRoot\=""/>\r\n<libraryLocation jreJar\="C\:/Program Files/JDK8/jre/lib/jce.jar" jreJavadoc\="https\://docs.oracle.com/javase/8/docs/api/" jreSrc\="C\:/Program Files/JDK8/src.zip" pkgRoot\=""/>\r\n<libraryLocation jreJar\="C\:/Program Files/JDK8/jre/lib/charsets.jar" jreJavadoc\="https\://docs.oracle.com/javase/8/docs/api/" jreSrc\="C\:/Program Files/JDK8/src.zip" pkgRoot\=""/>\r\n<libraryLocation jreJar\="C\:/Program Files/JDK8/jre/lib/ext/access-bridge-64.jar" jreSrc\="C\:/Program Files/JDK8/src.zip" pkgRoot\=""/>\r\n<libraryLocation jreJar\="C\:/Program Files/JDK8/jre/lib/ext/cldrdata.jar" jreSrc\="C\:/Program Files/JDK8/src.zip" pkgRoot\=""/>\r\n<libraryLocation jreJar\="C\:/Program Files/JDK8/jre/lib/ext/dnsns.jar" jreSrc\="C\:/Program Files/JDK8/src.zip" pkgRoot\=""/>\r\n<libraryLocation jreJar\="C\:/Program Files/JDK8/jre/lib/ext/jaccess.jar" jreSrc\="C\:/Program Files/JDK8/src.zip" pkgRoot\=""/>\r\n<libraryLocation jreJar\="C\:/Program Files/JDK8/jre/lib/ext/localedata.jar" jreSrc\="C\:/Program Files/JDK8/src.zip" pkgRoot\=""/>\r\n<libraryLocation jreJar\="C\:/Program Files/JDK8/jre/lib/ext/nashorn.jar" jreSrc\="C\:/Program Files/JDK8/src.zip" pkgRoot\=""/>\r\n<libraryLocation jreJar\="C\:/Program Files/JDK8/jre/lib/ext/sunec.jar" jreSrc\="C\:/Program Files/JDK8/src.zip" pkgRoot\=""/>\r\n<libraryLocation jreJar\="C\:/Program Files/JDK8/jre/lib/ext/sunjce_provider.jar" jreSrc\="C\:/Program Files/JDK8/src.zip" pkgRoot\=""/>\r\n<libraryLocation jreJar\="C\:/Program Files/JDK8/jre/lib/ext/sunmscapi.jar" jreSrc\="C\:/Program Files/JDK8/src.zip" pkgRoot\=""/>\r\n<libraryLocation jreJar\="C\:/Program Files/JDK8/jre/lib/ext/sunpkcs11.jar" jreSrc\="C\:/Program Files/JDK8/src.zip" pkgRoot\=""/>\r\n<libraryLocation jreJar\="C\:/Program Files/JDK8/jre/lib/ext/zipfs.jar" jreSrc\="C\:/Program Files/JDK8/src.zip" pkgRoot\=""/>\r\n</libraryLocations>\r\n</vm>\r\n</vmType>\r\n</vmSettings>\r\n
+/instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.only_include_exported_classpath_entries=false
+/instance/org.eclipse.jdt.ui/content_assist_autoactivation_triggers_java=.abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_
+/instance/org.eclipse.jdt.ui/content_assist_disabled_computers=org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.javaChainProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.jdt.ui.javaPostfixProposalCategory\u0000
+/instance/org.eclipse.jdt.ui/content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.lang.Cloneable"><rhs name\="java.util.GregorianCalendar"/></lhs><lhs name\="java.util.Calendar"><rhs name\="java.util.GregorianCalendar"/></lhs><lhs name\="java.lang.Number"><rhs name\="java.math.BigDecimal"/></lhs><lhs name\="java.math.BigDecimal"><rhs name\="java.math.BigDecimal"/></lhs><lhs name\="java.io.InputStream"><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.io.FileOutputStream"/><rhs name\="java.io.FileInputStream"/><rhs name\="java.io.InputStreamReader"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.io.FileOutputStream"/><rhs name\="java.io.FileInputStream"/><rhs name\="java.io.InputStreamReader"/><rhs name\="org.apache.commons.dbcp2.BasicDataSource"/></lhs><lhs name\="java.io.FileInputStream"><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="java.io.File"><rhs name\="java.io.File"/></lhs><lhs name\="java.io.OutputStream"><rhs name\="java.io.FileOutputStream"/></lhs><lhs name\="java.io.Flushable"><rhs name\="java.io.FileOutputStream"/></lhs><lhs name\="java.io.FileOutputStream"><rhs name\="java.io.FileOutputStream"/></lhs><lhs name\="java.io.Reader"><rhs name\="java.io.InputStreamReader"/></lhs><lhs name\="java.lang.Readable"><rhs name\="java.io.InputStreamReader"/></lhs><lhs name\="java.io.InputStreamReader"><rhs name\="java.io.InputStreamReader"/></lhs><lhs name\="javax.sql.DataSource"><rhs name\="org.apache.commons.dbcp2.BasicDataSource"/></lhs><lhs name\="javax.sql.CommonDataSource"><rhs name\="org.apache.commons.dbcp2.BasicDataSource"/></lhs><lhs name\="java.sql.Wrapper"><rhs name\="org.apache.commons.dbcp2.BasicDataSource"/></lhs><lhs name\="org.apache.commons.dbcp2.BasicDataSourceMXBean"><rhs name\="org.apache.commons.dbcp2.BasicDataSource"/></lhs><lhs name\="javax.management.MBeanRegistration"><rhs name\="org.apache.commons.dbcp2.BasicDataSource"/></lhs><lhs name\="org.apache.commons.dbcp2.BasicDataSource"><rhs name\="org.apache.commons.dbcp2.BasicDataSource"/></lhs><lhs name\="orm.Employee"><rhs name\="orm.Employee"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs></history>
+/instance/org.eclipse.jdt.ui/content_assist_number_of_computers=12
+/instance/org.eclipse.jdt.ui/content_assist_proposals_background=255,255,255
+/instance/org.eclipse.jdt.ui/content_assist_proposals_foreground=0,0,0
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.internal.ui.navigator.layout=2
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.formatterprofiles.version=19
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates><template autoinsert\="true" context\="java" deleted\="false" description\="" enabled\="true" name\="jdbc">try (Connection connection \= DriverManager.getConnection("jdbc\:oracle\:thin\:@//localhost\:1521/xepdb1", "scott",&\#13;\r\n\t\t\t\t"tiger");&\#13;\r\n\t) {&\#13;\r\n&\#13;\r\n&\#13;\r\n\t\t} catch (SQLException e) {&\#13;\r\n\t\t\te.printStackTrace();&\#13;\r\n&\#13;\r\n\t\t}&\#13;\r\n${\:import('java.sql.*')}</template></templates>
+/instance/org.eclipse.jdt.ui/sourceHoverBackgroundColor=255,255,225
+/instance/org.eclipse.jdt.ui/spelling_locale_initialized=true
+/instance/org.eclipse.jdt.ui/useAnnotationsPrefPage=true
+/instance/org.eclipse.jdt.ui/useQuickDiffPrefPage=true
+/instance/org.eclipse.jsch.core/org.eclipse.jsch.core.hasChangedDefaultWin32SshHome=true
+/instance/org.eclipse.jsch.core/org.eclipse.jsch.core.hasMigratedSsh2Preferences=true
+/instance/org.eclipse.jst.j2ee.webservice.ui/areThereWebServices=false
+/instance/org.eclipse.m2e.discovery/org.eclipse.m2e.discovery.pref.projects=
+/instance/org.eclipse.mylyn.context.core/mylyn.attention.migrated=true
+/instance/org.eclipse.mylyn.java.ui/org.eclipse.mylyn.java.ui.run.count.3_10_0=1
+/instance/org.eclipse.mylyn.java.ui/org.eclipse.mylyn.java.ui.run.count.3_1_0=1
+/instance/org.eclipse.mylyn.monitor.ui/org.eclipse.mylyn.monitor.activity.tracking.enabled.checked=true
+/instance/org.eclipse.mylyn.tasks.ui/migrated.task.repositories.secure.store=true
+/instance/org.eclipse.mylyn.tasks.ui/org.eclipse.mylyn.tasks.ui.filters.nonmatching=true
+/instance/org.eclipse.mylyn.tasks.ui/org.eclipse.mylyn.tasks.ui.filters.nonmatching.encouraged=true
+/instance/org.eclipse.mylyn.tasks.ui/org.eclipse.mylyn.tasks.ui.welcome.message=true
+/instance/org.eclipse.oomph.workingsets/working.set.group=<?xml version\="1.0" encoding\="UTF-8"?>\n<workingsets\:WorkingSetGroup xmi\:version\="2.0" xmlns\:xmi\="http\://www.omg.org/XMI" xmlns\:workingsets\="http\://www.eclipse.org/oomph/workingsets/1.0"/>\n
+/instance/org.eclipse.pde.api.tools/knownEEFragments=
+/instance/org.eclipse.rse.core/activeuserprofiles=Student-PC;Team
+/instance/org.eclipse.ui.browser/internalWebBrowserHistory=https\://www.eclipse.org/setups/donate/?scope\=Eclipse%20IDE%20for%20Enterprise%20Java%20Developers%20(includes%20Incubating%20components)&version\=4.16.0.20200615-1200&campaign\=2020-06|*|
+/instance/org.eclipse.ui.editors/overviewRuler_migration=migrated_3.1
+/instance/org.eclipse.ui.ide/IMPORT_FILES_AND_FOLDERS_RELATIVE=true
+/instance/org.eclipse.ui.ide/IMPORT_FILES_AND_FOLDERS_TYPE=23,1
+/instance/org.eclipse.ui.ide/PROBLEMS_FILTERS_MIGRATE=true
+/instance/org.eclipse.ui.ide/platformState=1594629449660
+/instance/org.eclipse.ui.ide/quickStart=false
+/instance/org.eclipse.ui.ide/tipsAndTricks=true
+/instance/org.eclipse.ui.navigator/org.eclipse.ui.navigator.ProjectExplorer.filterActivation=\:org.eclipse.jdt.java.ui.filters.HidePackageDeclaration\:org.eclipse.rse.project.filters.RemoteSystemsProjects\:org.eclipse.jdt.java.ui.filters.HideOutputFolder\:org.eclipse.buildship.ui.navigator.filter.gradle.subProject\:org.eclipse.ui.navigator.resources.nested.HideTopLevelProjectIfNested\:org.eclipse.buildship.ui.navigator.filter.gradle.buildfolder\:org.eclipse.jdt.java.ui.filters.HideEmptyInnerPackages\:org.eclipse.jst.j2ee.navigator.ui.filters.jetemitters\:org.eclipse.jdt.java.ui.filters.HideInnerClassFiles\:org.eclipse.ui.navigator.resources.filters.startsWithDot\:org.eclipse.jdt.java.ui.filters.HideEmptyLibraryContainers\:org.eclipse.jdt.java.ui.filters.HideImportDeclaration\:org.eclipse.jdt.java.ui.filters.HideSyntheticMembers\:org.eclipse.mylyn.tasks.ui.navigator.filters.tasks\:org.eclipse.ui.navigator.resources.nested.HideFolderWhenProjectIsShownAsNested\:
+/instance/org.eclipse.ui.workbench//org.eclipse.ui.commands/state/org.eclipse.ui.navigator.resources.nested.changeProjectPresentation/org.eclipse.ui.commands.radioState=false
+/instance/org.eclipse.ui.workbench//org.eclipse.ui.commands/state/org.eclipse.wst.xml.views.XPathView.processor.xpathprocessor/org.eclipse.ui.commands.radioState=xpath10
+/instance/org.eclipse.ui.workbench/ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.debug.ui.presentation
+/instance/org.eclipse.ui.workbench/ColorsAndFontsPreferencePage.selectedElement=Forg.eclipse.debug.ui.consoleFont
+/instance/org.eclipse.ui.workbench/PLUGINS_NOT_ACTIVATED_ON_STARTUP=;org.eclipse.m2e.discovery;
+/instance/org.eclipse.ui.workbench/org.eclipse.debug.ui.consoleFont=1|\u5FAE\u8EDF\u6B63\u9ED1\u9AD4|13.0|0|WINDOWS|1|-26|0|0|0|400|0|0|0|0|3|2|1|34|\u5FAE\u8EDF\u6B63\u9ED1\u9AD4;
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.internal.ui.compare.JavaMergeViewer=1|Consolas|12.0|0|WINDOWS|1|-24|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.internal.ui.compare.PropertiesFileMergeViewer=1|Consolas|12.0|0|WINDOWS|1|-24|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.PropertiesFileEditor.textfont=1|Consolas|12.0|0|WINDOWS|1|-24|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.editors.textfont=1|Consolas|12.0|0|WINDOWS|1|-24|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui/showIntro=false
+/instance/org.eclipse.wst.jsdt.ui/fontPropagated=true
+/instance/org.eclipse.wst.jsdt.ui/org.eclipse.jface.textfont=1|Consolas|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Consolas;
+/instance/org.eclipse.wst.jsdt.ui/org.eclipse.wst.jsdt.ui.editor.tab.width=
+/instance/org.eclipse.wst.jsdt.ui/org.eclipse.wst.jsdt.ui.formatterprofiles.version=11
+/instance/org.eclipse.wst.jsdt.ui/org.eclipse.wst.jsdt.ui.javadoclocations.migrated=true
+/instance/org.eclipse.wst.jsdt.ui/proposalOrderMigrated=true
+/instance/org.eclipse.wst.jsdt.ui/tabWidthPropagated=true
+/instance/org.eclipse.wst.jsdt.ui/useAnnotationsPrefPage=true
+/instance/org.eclipse.wst.jsdt.ui/useQuickDiffPrefPage=true
+/instance/org.eclipse.wst.ws.service.policy/org.eclipse.wst.ws.service.policy.ui.servicepols.wsiprofilecomp.wsiap.defaultProtocol=http\://schemas.xmlsoap.org/wsdl/soap/
+/instance/org.eclipse.wst.ws.service.policy/org.eclipse.wst.ws.service.policy.ui.servicepols.wsiprofilecomp.wsissbp.defaultProtocol=http\://schemas.xmlsoap.org/wsdl/soap/
+@org.eclipse.core.net=1.3.900.v20200428-1255
+@org.eclipse.core.resources=3.13.700.v20200209-1624
+@org.eclipse.debug.core=3.15.100.v20200514-0816
+@org.eclipse.debug.ui=3.14.500.v20200520-0842
+@org.eclipse.e4.ui.css.swt.theme=0.12.700.v20200527-0719
+@org.eclipse.e4.ui.workbench.renderers.swt=0.14.1200.v20200529-1321
+@org.eclipse.jdt.core=3.22.0.v20200530-2032
+@org.eclipse.jdt.debug=3.15.100.v20200525-2012
+@org.eclipse.jdt.debug.ui=3.11.0.v20200525-2012
+@org.eclipse.jdt.junit=3.11.800.v20200518-1033
+@org.eclipse.jdt.launching=3.17.100.v20200526-1503
+@org.eclipse.jdt.ui=3.21.100.v20200602-0959
+@org.eclipse.jsch.core=1.3.900.v20200422-1935
+@org.eclipse.m2e.discovery=1.16.0.20200318-1040
+@org.eclipse.mylyn.context.core=3.25.1.v20200512-2113
+@org.eclipse.mylyn.monitor.ui=3.25.1.v20200511-1958
+@org.eclipse.mylyn.tasks.ui=3.25.1.v20200512-0316
+@org.eclipse.oomph.workingsets=1.10.0.v20180706-1242
+@org.eclipse.ui=3.117.0.v20200518-1705
+@org.eclipse.ui.browser=3.6.800.v20200410-1405
+@org.eclipse.ui.editors=3.13.200.v20200501-2307
+@org.eclipse.ui.ide=3.17.100.v20200530-0835
+@org.eclipse.ui.navigator=3.9.300.v20200513-0930
+@org.eclipse.ui.workbench=3.119.0.v20200521-1247
+file_export_version=3.0
